@@ -1,0 +1,8 @@
+
+JsonParser/bin/*
+
+JsonParser/obj/*
+
+*.suo
+
+.vs/
